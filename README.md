@@ -1,4 +1,4 @@
-#Scouitum_Talent_Scouting_Classification
+#Scoutium_Talent_Scouting_Classification
 
 
 # TALENT SCOUTING CLASSIFICATION WITH MACHINE LEARNING
